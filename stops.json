@@ -1,0 +1,34 @@
+{
+  "stops": [
+  	{
+  		"title": "Cambridge",
+  		"uwm_tag": "cambrdg_n",
+  		"uwm_id": "02",
+  		"mcts": [3640]
+  	},
+  	{
+  		"title": "Kenilworth",
+  		"uwm_tag": "keni_d",
+  		"uwm_id": "01",
+  		"mcts": [4367, 3644]
+  	},
+	{
+  		"title": "Library",
+  		"uwm_tag": "library_s",
+  		"uwm_id": "09",
+  		"mcts": [4375]
+  	},
+  	{
+  		"title": "RiverView",
+  		"uwm_tag": "riveview",
+  		"uwm_id": "03",
+  		"mcts": [4467]
+  	},
+  	{
+  		"title": "Union",
+  		"uwm_tag": "union",
+  		"uwm_id": "18",
+  		"mcts": [7855, 4377, 264]
+  	}
+  ]
+}
